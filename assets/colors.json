@@ -1,0 +1,11 @@
+{
+	"Green":"#15f153",			"_comment0":"GreenEmbed",
+	"Yellow":"#e4e80d",			"_comment5":"YellowEmbed",
+	"Red":"#d62424",			"_comment6":"ErrorEmbed",
+	"Gray":"#a0a0a0",			"_comment24":"No Gains",
+	"LightGray":"#e8e8e8",		"_comment1":"Common spawns",
+	"DeepBlue":"#1f88f2",		"_comment2":"Rare spawns",
+	"Violet":"#9e0eb5",			"_comment3":"Epic spawns",
+	"Orange":"#d18008",			"_comment4":"Legendary spawns",
+	"Beige":"#b78e52",			"_comment7":"Other"
+}
