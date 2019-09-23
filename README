@@ -1,1 +1,7 @@
-El Bot...
+Un bot de entretenimiendo para el programa Discord.
+
+Hace aparecer objetos en el chat, los cuales son personajes que pueden ser capturados por el usuario para formar colecciones.
+Toda la funcionalidad básica de aparecer los personajes, capturarlos, comerciarlos, regalarlos y deshacerse de ellos
+esta incluída, así como otras pequeñas funciones que puede tener un programa de chat.
+
+No incluye ningún comando de moderación de usuarios.
