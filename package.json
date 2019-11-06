@@ -15,7 +15,7 @@
     "google-tts-api": "0.0.4",
     "kaori": "^1.2.0",
     "mathjs": "^5.6.0",
-    "mongoose": "^5.4.15",
+    "mongoose": "^5.7.5",
     "nodemon": "^1.18.10",
     "random-puppy": "^1.1.0",
     "request": "^2.88.0",
